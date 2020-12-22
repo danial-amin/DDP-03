@@ -1,0 +1,13 @@
+name: DDP-03
+title: DDP-03
+username:
+account: dany-amin
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3424205
+bundleId: 4017981
+url: https://dany-amin.shinyapps.io/DDP-03/
+when: 1608623063.9188
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: reproducible-pitch-presentation
